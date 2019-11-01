@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NavigationApplication</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button">GO TO FRAGMENT2</string>
+    <string name="hello_Fragment2">HELLO FRAGMENT2</string>
+    <string name="navigate_action_button">NAVIGATE NEXT STEP</string>
+    <string name="hello_Fragment3">HELLO FRAGMENT 3</string>
+    <string name="go_to_activity">GO TO ACTIVITY</string>
+    <string name="Hello_Activity_2">HELLO ACTIVITY 2</string>
+</resources>
